@@ -1,4 +1,4 @@
-export interface Props {
+// interfaces/index.ts
+export interface PillProps {
   title: string;
-  description?: string;
 }

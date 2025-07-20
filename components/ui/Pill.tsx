@@ -1,15 +1,12 @@
 // components/ui/Pill.tsx
 import React from "react";
-
-interface PillProps {
-  title: string;
-}
+import { PillProps } from "@/interfaces"; // Or use relative path: "../../interfaces"
 
 const Pill: React.FC<PillProps> = ({ title }) => {
   return (
-    <span className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm mr-2">
-      {title}
-    </span>
+    <div className="flex justify-center items-center bg-[#F9F9F9] px-3 w-auto h-[27px] rounded-full">
+      <p className="text-sm">{title}</p>
+    </div>
   );
 };
 
