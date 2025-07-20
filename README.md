@@ -1,9 +1,4 @@
-## Basic Routing
+## Components Used
 
-This project uses Next.js Pages Router.
-
-### Available Routes:
-
-- `/` - Home page
-- `/landing` - Landing page
-- `/about` - About page
+- Reused the `Card` component multiple times in `landing.tsx`.
+- Each `Card` uses the `Pill` component with different titles.
