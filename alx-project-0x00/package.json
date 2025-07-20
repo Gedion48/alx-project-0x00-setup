@@ -11,11 +11,7 @@
   "dependencies": {
     "react": "19.1.0",
     "react-dom": "19.1.0",
-<<<<<<< HEAD
-    "next": "15.4.2"
-=======
     "next": "15.4.1"
->>>>>>> 6da697068b774d515a2ca78806fe2551ddd10557
   },
   "devDependencies": {
     "typescript": "^5",
@@ -25,11 +21,7 @@
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4",
     "eslint": "^9",
-<<<<<<< HEAD
-    "eslint-config-next": "15.4.2",
-=======
     "eslint-config-next": "15.4.1",
->>>>>>> 6da697068b774d515a2ca78806fe2551ddd10557
     "@eslint/eslintrc": "^3"
   }
 }

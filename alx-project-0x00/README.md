@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -39,8 +38,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-=======
-# ALX Project 0x00 Setup
-
-This project is a scaffolded Next.js app with TypeScript, Tailwind CSS, ESLint, and import alias configured using `@/*`. It is part of the ALX front end pro dev engineering curriculum.
->>>>>>> 6da697068b774d515a2ca78806fe2551ddd10557
